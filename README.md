@@ -68,11 +68,6 @@ AgentAuditor introduces a sophisticated evaluation framework that:
 ## 🏗️ Architecture
 
 ![Overall Architecture](assets/agent_auditor_overview.png)
-![Overall Architecture](assets/workflow.png)
-
-## 🏗️ ASSEBench Category
-
-![Overall Architecture](assets/dataset.png)
 
 ## 📁 Repository Structure
 
